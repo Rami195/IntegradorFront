@@ -24,7 +24,7 @@ En este proyecto, utilicé las siguientes tecnologías:
 
 
 ## Despliegue
-Utilicé Vercel para realizar el despliegue de mi proyecto. Puedes ver mi proyecto desplegado en https://gestion-de-tienda.vercel.app/ y agregar los elementos que desees
+Utilicé Vercel para realizar el despliegue de mi proyecto. Puedes ver mi proyecto desplegado en [https://gestion-de-tienda.vercel.app/](https://integrador-front-nine.vercel.app/) y agregar los elementos que desees
 
 
 
