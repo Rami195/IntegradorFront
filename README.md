@@ -1,6 +1,6 @@
 <div align="center">
 
-# Gestion de Tienda de Zapatillas
+# Trabajo Integrado JS
 
 </div>
 
